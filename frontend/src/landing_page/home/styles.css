@@ -1,0 +1,15 @@
+/* Hero Component styling */
+.investText{
+    font-size:6ch;
+    color: rgb(59, 56, 56);
+}
+.desText{
+    font-size: 3ch;
+    color: rgb(59, 56, 56);
+}
+
+/* Stats */
+.statscontainer{
+    margin-right: 7ch;
+}
+
